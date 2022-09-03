@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge]([./design/desktop-preview.jpg](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/lzfaukzhigbavv5sc26b.jpg))
+![Design preview for the QR code component coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/lzfaukzhigbavv5sc26b.jpg)
 
 ## Welcome! 👋
 
